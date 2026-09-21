@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 320" role="img" aria-labelledby="catTitle">
+  <title id="catTitle">Seis categorías del clasificador</title>
+  <rect width="980" height="320" rx="24" fill="#171c16"/>
+  <rect x="1" y="1" width="978" height="318" rx="23" fill="none" stroke="rgba(239,232,214,0.12)"/>
+  <text x="40" y="42" fill="#9aa194" font-size="12" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="2">CATÁLOGO</text>
+  <text x="40" y="68" fill="#efe8d6" font-size="22" font-family="Georgia, serif">Seis categorías, ES + EN</text>
+
+  <g font-family="ui-sans-serif, system-ui, sans-serif">
+    <g>
+      <rect x="40" y="96" width="280" height="88" rx="16" fill="#10140f" stroke="rgba(239,232,214,0.12)"/>
+      <rect x="40" y="96" width="8" height="88" rx="4" fill="#d4a853"/>
+      <text x="68" y="132" fill="#d4a853" font-size="12" letter-spacing="1">BILLING</text>
+      <text x="68" y="156" fill="#efe8d6" font-size="18" font-family="Georgia, serif">Facturación</text>
+    </g>
+    <g>
+      <rect x="350" y="96" width="280" height="88" rx="16" fill="#10140f" stroke="rgba(239,232,214,0.12)"/>
+      <rect x="350" y="96" width="8" height="88" rx="4" fill="#c45c4a"/>
+      <text x="378" y="132" fill="#c45c4a" font-size="12" letter-spacing="1">TECHNICAL</text>
+      <text x="378" y="156" fill="#efe8d6" font-size="18" font-family="Georgia, serif">Incidente técnico</text>
+    </g>
+    <g>
+      <rect x="660" y="96" width="280" height="88" rx="16" fill="#10140f" stroke="rgba(239,232,214,0.12)"/>
+      <rect x="660" y="96" width="8" height="88" rx="4" fill="#6b8f71"/>
+      <text x="688" y="132" fill="#6b8f71" font-size="12" letter-spacing="1">FEATURE</text>
+      <text x="688" y="156" fill="#efe8d6" font-size="18" font-family="Georgia, serif">Solicitud de función</text>
+    </g>
+    <g>
+      <rect x="40" y="204" width="280" height="88" rx="16" fill="#10140f" stroke="rgba(239,232,214,0.12)"/>
+      <rect x="40" y="204" width="8" height="88" rx="4" fill="#5b7fa6"/>
+      <text x="68" y="240" fill="#5b7fa6" font-size="12" letter-spacing="1">ACCOUNT</text>
+      <text x="68" y="264" fill="#efe8d6" font-size="18" font-family="Georgia, serif">Acceso a cuenta</text>
+    </g>
+    <g>
+      <rect x="350" y="204" width="280" height="88" rx="16" fill="#10140f" stroke="rgba(239,232,214,0.12)"/>
+      <rect x="350" y="204" width="8" height="88" rx="4" fill="#8b5e83"/>
+      <text x="378" y="240" fill="#8b5e83" font-size="12" letter-spacing="1">SECURITY</text>
+      <text x="378" y="264" fill="#efe8d6" font-size="18" font-family="Georgia, serif">Seguridad</text>
+    </g>
+    <g>
+      <rect x="660" y="204" width="280" height="88" rx="16" fill="#10140f" stroke="rgba(239,232,214,0.12)"/>
+      <rect x="660" y="204" width="8" height="88" rx="4" fill="#8a8d82"/>
+      <text x="688" y="240" fill="#8a8d82" font-size="12" letter-spacing="1">GENERAL</text>
+      <text x="688" y="264" fill="#efe8d6" font-size="18" font-family="Georgia, serif">Consulta general</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 340" role="img" aria-labelledby="scoreTitle">
+  <title id="scoreTitle">Puntajes de un ticket de facturación</title>
+  <rect width="980" height="340" rx="24" fill="#171c16"/>
+  <rect x="1" y="1" width="978" height="338" rx="23" fill="none" stroke="rgba(239,232,214,0.12)"/>
+  <text x="40" y="42" fill="#9aa194" font-size="12" font-family="ui-sans-serif, system-ui, sans-serif" letter-spacing="2">EJEMPLO REAL</text>
+  <text x="40" y="70" fill="#efe8d6" font-size="20" font-family="Georgia, serif">Nos cobraron dos veces el plan</text>
+  <text x="940" y="70" text-anchor="end" fill="#d4a853" font-size="14" font-family="ui-sans-serif, system-ui, sans-serif">Facturación · 97%</text>
+
+  <g font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">
+    <text x="40" y="118" fill="#d4a853">Facturación</text>
+    <rect x="200" y="104" width="720" height="16" rx="8" fill="#10140f"/>
+    <rect x="200" y="104" width="478" height="16" rx="8" fill="#d4a853"/>
+    <text x="940" y="118" text-anchor="end" fill="#efe8d6">0.664</text>
+
+    <text x="40" y="158" fill="#8a8d82">Consulta general</text>
+    <rect x="200" y="144" width="720" height="16" rx="8" fill="#10140f"/>
+    <rect x="200" y="144" width="48" height="16" rx="8" fill="#8a8d82"/>
+    <text x="940" y="158" text-anchor="end" fill="#efe8d6">0.066</text>
+
+    <text x="40" y="198" fill="#c45c4a">Incidente técnico</text>
+    <rect x="200" y="184" width="720" height="16" rx="8" fill="#10140f"/>
+    <rect x="200" y="184" width="27" height="16" rx="8" fill="#c45c4a"/>
+    <text x="940" y="198" text-anchor="end" fill="#efe8d6">0.038</text>
+
+    <text x="40" y="238" fill="#5b7fa6">Acceso a cuenta</text>
+    <rect x="200" y="224" width="720" height="16" rx="8" fill="#10140f"/>
+    <rect x="200" y="224" width="22" height="16" rx="8" fill="#5b7fa6"/>
+    <text x="940" y="238" text-anchor="end" fill="#efe8d6">0.031</text>
+
+    <text x="40" y="278" fill="#8b5e83">Seguridad</text>
+    <rect x="200" y="264" width="720" height="16" rx="8" fill="#10140f"/>
+    <rect x="200" y="264" width="13" height="16" rx="8" fill="#8b5e83"/>
+    <text x="940" y="278" text-anchor="end" fill="#efe8d6">0.018</text>
+
+    <text x="40" y="318" fill="#6b8f71">Solicitud de función</text>
+    <rect x="200" y="304" width="720" height="16" rx="8" fill="#10140f"/>
+    <rect x="200" y="304" width="8" height="16" rx="8" fill="#6b8f71"/>
+    <text x="940" y="318" text-anchor="end" fill="#efe8d6">0.009</text>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 280" role="img" aria-labelledby="archTitle">
+  <title id="archTitle">Arquitectura de Athena</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#171c16"/>
+      <stop offset="100%" stop-color="#10140f"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#d4a853"/>
+    </marker>
+  </defs>
+  <rect width="980" height="280" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="978" height="278" rx="23" fill="none" stroke="rgba(239,232,214,0.12)"/>
+
+  <g font-family="Georgia, 'Times New Roman', serif">
+    <rect x="40" y="70" width="220" height="140" rx="18" fill="#10140f" stroke="#d4a853"/>
+    <text x="150" y="128" text-anchor="middle" fill="#efe8d6" font-size="22">React + Vite</text>
+    <text x="150" y="156" text-anchor="middle" fill="#9aa194" font-size="13" font-family="ui-sans-serif, system-ui, sans-serif">pnpm ù puerto 5173</text>
+  </g>
+
+  <path d="M270 140 H330" stroke="#d4a853" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="300" y="128" text-anchor="middle" fill="#d4a853" font-size="12" font-family="ui-sans-serif, system-ui, sans-serif">/api</text>
+
+  <g font-family="Georgia, 'Times New Roman', serif">
+    <rect x="340" y="70" width="220" height="140" rx="18" fill="#10140f" stroke="rgba(239,232,214,0.22)"/>
+    <text x="450" y="128" text-anchor="middle" fill="#efe8d6" font-size="22">Django + DRF</text>
+    <text x="450" y="156" text-anchor="middle" fill="#9aa194" font-size="13" font-family="ui-sans-serif, system-ui, sans-serif">Poetry ù puerto 8000</text>
+  </g>
+
+  <path d="M570 140 H630" stroke="#d4a853" stroke-width="2"/>
+  <text x="600" y="128" text-anchor="middle" fill="#d4a853" font-size="12" font-family="ui-sans-serif, system-ui, sans-serif">classify</text>
+
+  <g font-family="Georgia, 'Times New Roman', serif">
+    <rect x="640" y="40" width="300" height="90" rx="18" fill="#10140f" stroke="#6b8f71"/>
+    <text x="790" y="78" text-anchor="middle" fill="#efe8d6" font-size="18">TF-IDF local</text>
+    <text x="790" y="102" text-anchor="middle" fill="#9aa194" font-size="12" font-family="ui-sans-serif, system-ui, sans-serif">scikit-learn ù siempre online</text>
+
+    <rect x="640" y="150" width="300" height="90" rx="18" fill="#10140f" stroke="#5b7fa6"/>
+    <text x="790" y="188" text-anchor="middle" fill="#efe8d6" font-size="18">Ollama (opcional)</text>
+    <text x="790" y="212" text-anchor="middle" fill="#9aa194" font-size="12" font-family="ui-sans-serif, system-ui, sans-serif">localhost:11434 ù fallback automùtico</text>
+  </g>
+</svg>
